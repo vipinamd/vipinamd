@@ -4,8 +4,18 @@
 - 🌱 I’m currently how to use GPU for infrencing and acting as accelerator for CPU workload
 - 💞️ I’m looking to collaborate on DPDK, VPP, eBPF, ONNX, profiling and performance tuning
 - 📫 How to reach me vipin.varghese@amd.com (email), teams, vipinpv85 (gtalk|skype)
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Internal Skills & Research
+
+- 🔒 ProfileLinuxApp-Skills
+- 🔒 DPDK-Latency-Analysis
+- 🔒 Container-Topology-Profiler
+- 🔒 Perf-IBS-Playbooks
+- 🔒 Telco-Performance-Debugging
+- 🔒 RadeonPro - profile, cuda2hip, c/c++2hip
+- 🔒 linux2dpdk PMD
+- 🔒 dpdk patch2unit amd-agent
 
 <!---
 vipinamd/vipinamd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
