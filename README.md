@@ -13,7 +13,7 @@
 - 🔒 Container-Topology-Profiler
 - 🔒 Perf-IBS-Playbooks
 - 🔒 Telco-Performance-Debugging
-- 🔒 RadeonPro - profile, cuda2hip, c/c++2hip
+- 🔒 RadeonPro 9600D/9700D; Mi350P - profile, cuda2hip, c/c++2hip
 - 🔒 linux2dpdk PMD
 - 🔒 dpdk patch2unit amd-agent
 
